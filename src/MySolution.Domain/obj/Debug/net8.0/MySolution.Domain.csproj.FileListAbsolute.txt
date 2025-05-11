@@ -1,0 +1,12 @@
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Domain/bin/Debug/net8.0/MySolution.Domain.deps.json
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Domain/bin/Debug/net8.0/MySolution.Domain.dll
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Domain/bin/Debug/net8.0/MySolution.Domain.pdb
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Domain/obj/Debug/net8.0/MySolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Domain/obj/Debug/net8.0/MySolution.Domain.AssemblyInfoInputs.cache
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Domain/obj/Debug/net8.0/MySolution.Domain.AssemblyInfo.cs
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Domain/obj/Debug/net8.0/MySolution.Domain.csproj.CoreCompileInputs.cache
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Domain/obj/Debug/net8.0/MySolution.Domain.sourcelink.json
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Domain/obj/Debug/net8.0/MySolution.Domain.dll
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Domain/obj/Debug/net8.0/refint/MySolution.Domain.dll
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Domain/obj/Debug/net8.0/MySolution.Domain.pdb
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Domain/obj/Debug/net8.0/ref/MySolution.Domain.dll

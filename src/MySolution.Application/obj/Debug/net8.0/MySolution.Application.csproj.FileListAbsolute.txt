@@ -1,0 +1,16 @@
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/bin/Debug/net8.0/MySolution.Application.deps.json
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/bin/Debug/net8.0/MySolution.Application.dll
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/bin/Debug/net8.0/MySolution.Application.pdb
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/bin/Debug/net8.0/MySolution.Domain.dll
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/bin/Debug/net8.0/MySolution.Domain.pdb
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/obj/Debug/net8.0/MySolution.Application.csproj.AssemblyReference.cache
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/obj/Debug/net8.0/MySolution.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/obj/Debug/net8.0/MySolution.Application.AssemblyInfoInputs.cache
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/obj/Debug/net8.0/MySolution.Application.AssemblyInfo.cs
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/obj/Debug/net8.0/MySolution.Application.csproj.CoreCompileInputs.cache
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/obj/Debug/net8.0/MySolution.Application.sourcelink.json
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/obj/Debug/net8.0/MySoluti.4F9A524B.Up2Date
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/obj/Debug/net8.0/MySolution.Application.dll
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/obj/Debug/net8.0/refint/MySolution.Application.dll
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/obj/Debug/net8.0/MySolution.Application.pdb
+/home/do_or_die/Desktop/Projects/ddd_repository_pattern/src/MySolution.Application/obj/Debug/net8.0/ref/MySolution.Application.dll
